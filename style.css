@@ -1,0 +1,55 @@
+* {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+
+    background-color: rgb(72, 72, 72);
+
+}
+
+h1, h6 {
+
+    color: white;
+
+}
+
+button {
+
+    border-radius: 5px;
+
+    border-style: solid;
+    border-color: gray;
+    background-color: darkgray;
+
+    color: white;
+
+    font-size: 20px;
+
+}
+
+button:hover {
+
+    background-color: gray;
+
+}
+
+.currentPage {
+
+    border-style: none;
+
+}
+
+p {
+
+    color: white;
+
+}
+
+.copyright {
+
+    font-size: 8px;
+
+}
