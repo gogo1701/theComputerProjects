@@ -2,36 +2,40 @@ var currentPage = document.getElementById('currentPage');
 
 function OpenMainPage() {
 
-    currentPage.src = 'pages/landing.html';
+    currentPage.src = 'pages/Landing.html';
 
 }
 
 function OpenAboutPage() {
 
-    currentPage.src = 'pages/about.html';
+    currentPage.src = 'pages/About.html';
 
 }
 
 function OpenPresentationsPage() {
-
-    currentPage.src = 'pages/landing.html';
+    currentPage.src = 'pages/presentations.html';
 
 }
 
 function OpenAppsPage() {
 
-    currentPage.src = 'pages/landing.html';
+    currentPage.src = 'pages/apps.html';
 
 }
 
 function OpenGamesPage() {
 
-    currentPage.src = 'pages/landing.html';
+    currentPage.src = 'pages/games.html';
 
 }
 
 function OpenContactUsPage() {
 
-    currentPage.src = 'pages/landing.html';
+    currentPage.src = 'pages/contactUs.html';
 
+}
+
+function OpenQuestionsPage() {
+
+    currentPage.src = 'pages/Questions.html';
 }

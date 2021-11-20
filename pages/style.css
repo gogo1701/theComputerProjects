@@ -1,0 +1,124 @@
+* {
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+body {
+
+    background-image: url(img/Background.png);
+
+}
+
+h1, h2, h3, h6, li {
+
+    color: white;
+
+}
+
+body {
+    overflow: hidden; /* Hide scrollbars */
+}
+
+.gameSlot {
+
+    box-shadow: 0px 2px 2px 0px #000000;
+
+    background-color: #525252;
+
+    border-radius: 10px;
+
+    width: 200px;
+
+}
+
+.gameSlot button {
+
+    margin-left: 80px;
+    align-content: center;
+    border-radius: 5px;
+    border-style: none;
+
+}
+
+.gameSlot h3 {
+
+    margin-left: 70px;
+    align-content: center;
+    border-radius: 5px;
+    border-style: none;
+
+}
+
+button {
+
+    border-radius: 5px;
+
+    border-style: solid;
+    border-color: gray;
+    background-color: darkgray;
+
+    color: white;
+
+    font-size: 20px;
+
+}
+
+.presentation iframe {
+
+    width: 485px;
+    height: 300px;
+
+    margin: 10px;
+
+}
+
+.presentation h1 {
+    
+    margin-left: 20px;
+
+    margin-top: 10px;
+
+    font-size: 15px;
+
+}
+
+.presentation {
+
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+
+    margin-bottom: 20px;
+
+    margin-top: 10px;
+
+}
+
+button:hover {
+
+    background-color: gray;
+
+    border-width: 0px;
+
+    cursor: pointer;
+
+}
+
+.currentPage {
+
+    border-style: none;
+
+}
+
+p {
+
+    color: white;
+
+}
+
+.copyright {
+
+    font-size: 8px;
+
+}
