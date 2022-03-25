@@ -4,13 +4,17 @@
 
 }
 
+.landingTitle {
+    text-align: center;
+}
+
 body {
 
     background-image: url(img/Background.png);
 
 }
 
-h1, h2, h3, h6, li {
+h1, h2, h3, h4, h5, h6, li {
 
     color: white;
 
@@ -84,10 +88,13 @@ button {
 }
 
 .presentation {
+    
+    width: 600px;
 
     border-width: 2px;
     border-color: white;
     border-style: solid;
+    border-radius: 10px;
 
     margin-bottom: 20px;
 
